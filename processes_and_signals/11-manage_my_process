@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # 11-manage_my_process
 # Description: Init script to manage manage_my_process
 
